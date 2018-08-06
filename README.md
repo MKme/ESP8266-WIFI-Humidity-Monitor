@@ -9,6 +9,10 @@ Wireless humidity Monitor for my 3D printer filament
 | VCC     | 3V3 |
 | SIG    | GPIO0 (D3 on LOLIN) |
 
+### Special Wiring### 
+
+RST> D0 for wakeup (GPIO16/WAKE on NodeMCU)
+NOTE: RST line wakeup Jumper must be removed to program!
 
 
 ### Support my projects by picking up the display/board here:
