@@ -34,11 +34,9 @@ My website   : http://www.mkme.org
  *
 ### Other Random notes so future me has a clue what I did here:
 Some code borrowed from: https://github.com/beamzer/Wemos-IFTTT-Button/blob/master/Wemos-IFTTT-Button/Wemos-IFTTT-Button.ino
-
 Another cool version: https://nobugsjustfeatures.wordpress.com/2017/12/11/pir-sensor-alarm-with-esp8266-and-ifttt-webhooks-maker/
 
 Yes some variables are no longer used and should be removed. That is a future person problem- deal with it.
-
 Yes credentials are hard coded- I did this to expressly annoy the internutz. Life is about joy in little wins....
 
 ESP Deep sleep tutorial from Rui here: https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/
