@@ -1,5 +1,7 @@
 /* 
 Eric's ESP8266 DHT11 sensor to send you temp and humidity notifications via IFTTT
+See the FULL video here: 
+Github here: https://github.com/MKme/ESP8266-WIFI-Humidity-Monitor
 
 My Youtube Channel  : http://www.youtube.com/mkmeorg
 My website   : http://www.mkme.org
@@ -26,8 +28,8 @@ NOTE: RST line wakeup Jumper must be removed to program!!!!!!!!!!!!!!
 */
 
 #include <ESP8266WiFi.h>
-const char* ssid     = "xxxxx";      // SSID of local network
-const char* password = "xxxxxxx";   // Password on network
+const char* ssid     = "xxxxxxxxxxxxxxxxxxxx";      // SSID of local network---------------------USER Input here
+const char* password = "xxxxxxx";   // Password on network -----------------------------------------------------
 String result;
 float h = 111;
 float t = 222;
@@ -79,8 +81,8 @@ void setup()
     Serial.println(" *C");
   }
   const char host[ ]        = "maker.ifttt.com";          // maker channel of IFTTT
-  const char trigger[ ]     = "humidity";                   //name of the trigger you would like to send to IFTTT
-  const char APIKey[ ]      = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";      //Your maker key for Webhooks on IFTTT
+  const char trigger[ ]     = "humidity";                   //name of the trigger you would like to send to IFTTT --------------------
+  const char APIKey[ ]      = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";      //Your maker key for Webhooks on IFTTT-----------
   Serial.print("Connect to: ");
   Serial.println(host);
   // WiFiClient to make HTTP connection
@@ -119,7 +121,7 @@ void setup()
   Serial.println("Deep sleep mode entered");
   ESP.deepSleep(3000e6); //30 for 30 seconds 7200 for 2 hours 86400 for 1 day
  }
-void loop() //Where nothing happens because of sleepytimez
+void loop() //Where nothing happens because esp8266 deep sleep mode
 { 
 
 }
