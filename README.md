@@ -30,7 +30,7 @@ DHT11: https://amzn.to/2OP0RSD
 My Youtube Channel  : http://www.youtube.com/mkmeorg
 My website   : http://www.mkme.org
 
-### Other Random noes:
+### Other Random notes so future me has a clue what I did here:
 Some code borrowed from: https://github.com/beamzer/Wemos-IFTTT-Button/blob/master/Wemos-IFTTT-Button/Wemos-IFTTT-Button.ino
 
 Another cool version: https://nobugsjustfeatures.wordpress.com/2017/12/11/pir-sensor-alarm-with-esp8266-and-ifttt-webhooks-maker/
