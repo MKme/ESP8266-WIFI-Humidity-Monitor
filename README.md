@@ -30,8 +30,8 @@ DHT11: https://amzn.to/2OP0RSD
 My Youtube Channel  : http://www.youtube.com/mkmeorg
 My website   : http://www.mkme.org
 
-    
-   
+ *   
+ *
 ### Other Random notes so future me has a clue what I did here:
 Some code borrowed from: https://github.com/beamzer/Wemos-IFTTT-Button/blob/master/Wemos-IFTTT-Button/Wemos-IFTTT-Button.ino
 
