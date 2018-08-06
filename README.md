@@ -1,5 +1,5 @@
 # ESP8266-WIFI-Humidity-Monitor
-Wireless humidity Monitor for my 3D printer filament
+Wireless humidity Monitor for my 3D printer filament. Samples DHT 11 every X hours/days, sends it to IFTTT and goes back in to deep sleep.
 
 ### Wiring For ESP12E LOLIN 
 
@@ -9,9 +9,10 @@ Wireless humidity Monitor for my 3D printer filament
 | VCC     | 3V3 |
 | SIG    | GPIO0 (D3 on LOLIN) |
 
-### Special Wiring### 
+### Special Wiring
 
 RST> D0 for wakeup (GPIO16/WAKE on NodeMCU)
+
 NOTE: RST line wakeup Jumper must be removed to program!
 
 
