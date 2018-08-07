@@ -1,9 +1,23 @@
 # ESP8266-WIFI-Humidity-Monitor
 Wireless humidity Monitor for my 3D printer filament. Samples DHT 11 every X hours/days, sends it to IFTTT and goes back in to deep sleep.
 
-See the FULL Assembly and project video here: 
+* See the FULL Assembly and project video here: 
 
-See this video for detailled IFTT Config (motion sensor) https://www.youtube.com/watch?v=y9XC5yHR5Bk
+* See this video for detailled IFTT Config (motion sensor) https://www.youtube.com/watch?v=y9XC5yHR5Bk 
+
+To get your IFTTT Key:
+
+1: sign in 
+
+2: click on your account in the top right corner 
+
+3: select services 
+
+4: select Webhooks 
+
+5: click settings in the top right 
+
+6: under account info, copy everything after https://maker.ifttt.com/use/   (including underscores)﻿
 
 ### Wiring For ESP12E LOLIN 
 
@@ -22,16 +36,15 @@ NOTE: RST line wakeup Jumper must be removed to program!
 
 ### Support my projects by picking up the display/board here:
 
-ESP8266: https://amzn.to/2vkxOP2
+* ESP8266: https://amzn.to/2vkxOP2
 
-DHT11: https://amzn.to/2OP0RSD
+* DHT11: https://amzn.to/2OP0RSD
 
 ### More Projects and Videos!
 My Youtube Channel  : http://www.youtube.com/mkmeorg
 My website   : http://www.mkme.org
 
- *   
- *
+
 ### Other Random notes so future me has a clue what I did here:
 Some code borrowed from: https://github.com/beamzer/Wemos-IFTTT-Button/blob/master/Wemos-IFTTT-Button/Wemos-IFTTT-Button.ino
 Another cool version: https://nobugsjustfeatures.wordpress.com/2017/12/11/pir-sensor-alarm-with-esp8266-and-ifttt-webhooks-maker/
