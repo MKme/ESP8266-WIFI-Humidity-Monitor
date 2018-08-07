@@ -1,0 +1,3 @@
+ESP8266 Humidity Sensor Project Box (https://www.thingiverse.com/thing:3039157) by EricWilliam is licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/3.0/
+
