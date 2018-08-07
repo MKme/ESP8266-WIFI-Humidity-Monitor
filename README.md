@@ -5,6 +5,8 @@ Wireless humidity Monitor for my 3D printer filament. Samples DHT 11 every X hou
 
 * See this video for detailled IFTT Config (motion sensor) https://www.youtube.com/watch?v=y9XC5yHR5Bk 
 
+Project box updates here: https://www.thingiverse.com/thing:3039157
+
 To get your IFTTT Key:
 
 1: sign in 
