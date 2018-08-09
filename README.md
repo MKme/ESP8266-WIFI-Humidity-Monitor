@@ -1,7 +1,7 @@
 # ESP8266-WIFI-Humidity-Monitor
 Wireless humidity Monitor for my 3D printer filament. Samples DHT 11 every X hours/days, sends it to IFTTT and goes back in to deep sleep.
 
-* See the FULL Assembly and project video here: 
+* See the FULL Assembly and project video here: https://youtu.be/Ul8eesjGY0M
 
 * See this video for detailled IFTT Config (motion sensor) https://www.youtube.com/watch?v=y9XC5yHR5Bk 
 
