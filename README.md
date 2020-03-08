@@ -58,3 +58,8 @@ ESP Deep sleep tutorial from Rui here: https://randomnerdtutorials.com/esp8266-d
 
 GPIO16 must be tied to reset to wake!
 Video explains: https://www.youtube.com/watch?v=Q8GT-GBH7ok
+
+March 2020
+Added backup of working library for my ESP12E- All other DHT libraries fail.  Seemingly impossible to find the working one again.  Found it here: 
+https://forum.arduino.cc/index.php?topic=475581.0
+
