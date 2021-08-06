@@ -1,6 +1,8 @@
 # ESP8266-WIFI-Humidity-Monitor
 Wireless humidity Monitor for my 3D printer filament. Samples DHT 11 every X hours/days, sends it to IFTTT and goes back in to deep sleep.
 
+* Buy a kit here and support the channel https://store.mkme.org/?product=esp8266-wireless-temperature-humidity-monitoring-diy-kit
+
 * See the FULL Assembly and project video here: https://youtu.be/Ul8eesjGY0M
 
 * See this video for detailled IFTT Config (motion sensor) https://www.youtube.com/watch?v=y9XC5yHR5Bk 
@@ -41,6 +43,8 @@ NOTE: RST line wakeup Jumper must be removed to program!
 * ESP8266: https://amzn.to/2vkxOP2
 
 * DHT11: https://amzn.to/2OP0RSD
+
+* Kit: https://store.mkme.org/?product=esp8266-wireless-temperature-humidity-monitoring-diy-kit
 
 ### More Projects and Videos!
 My Youtube Channel  : http://www.youtube.com/mkmeorg
